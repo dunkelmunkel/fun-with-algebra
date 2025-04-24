@@ -1,0 +1,42 @@
+\documentclass{../cssheet}
+
+%--------------------------------------------------------------------------------------------------------------
+% Basic meta data
+%--------------------------------------------------------------------------------------------------------------
+
+\title{Gruppenarbeit}
+\author{Prof. Dr. Christian Spannagel}
+\date{\today}
+\hypersetup{%
+    pdfauthor={\theauthor},%
+    pdftitle={\thetitle},% 
+    pdfsubject={Aufgabenblatt Algebra},%
+    pdfkeywords={algebra}
+}
+
+%--------------------------------------------------------------------------------------------------------------
+% document
+%--------------------------------------------------------------------------------------------------------------
+
+\begin{document}
+\printtitle
+
+
+\textbf{Aufgabe 1 (Gruppensuchen Teil 2):} Welche der folgenden Strukturen sind eine Gruppe und warum? Welche von den Gruppen sind abelsch? Und falls eine Struktur keine Gruppe ist: Ist sie vielleicht eine Halbgruppe?
+
+\begin{enumerate}[a)]
+\item Die Menge aller $2\times 2$-Matrizen reeller Zahlen mit der Matrixaddition als Verknüpfung
+\item Die Menge aller $2\times 2$-Matrizen reeller Zahlen mit der Matrixmultiplikation als Verknüpfung
+\item Die Menge aller linearen reellen Funktionen mit der Verkettung als Verknüpfung:\\ $(f\circ g) (x) = f ( g (x))$
+\item Die Menge aller n-stelligen Permutationen mit der Verkettung als Verknüpfung. Beispiel (von rechts nach links denken!):\\
+\\ 
+\begin{math}\begin{pmatrix} 1 & 2 & 3 \\ 3 & 1 & 2 \end{pmatrix} \circ \begin{pmatrix} 1 & 2 & 3 \\ 2 & 1 & 3 \end{pmatrix} = \begin{pmatrix} 1 & 2 & 3 \\ 1 & 3 & 2 \end{pmatrix}\end{math}
+\end{enumerate}
+
+
+\vspace*{2cm}
+\printlicense
+
+\printsocials
+
+\end{document}
