@@ -3,7 +3,7 @@
 % cssheet.cls
 %
 % author: Christian Spannagel
-% version: 1.04
+% version: 1.08
 % license: CC0
 %
 %--------------------------------------------------------------------------------------------------------------
@@ -17,12 +17,15 @@
 \RequirePackage[a4paper, left=25mm, right=25mm, top=30mm, bottom=25mm, headheight=30mm]{geometry}
 \RequirePackage{ngerman}
 \RequirePackage{textcomp}
+\RequirePackage{amssymb}
+\RequirePackage{amsmath}
 \RequirePackage{comment}
 \RequirePackage{enumerate}
 \RequirePackage{graphicx}
 \RequirePackage{fancyhdr}
 \RequirePackage{epstopdf}
 \RequirePackage{titling}
+\RequirePackage{hwemoji}
 \RequirePackage[backend=biber,style=apa]{biblatex}
 \DeclareFieldFormat{apacase}{#1}
 \DeclareLanguageMapping{ngerman}{ngerman-apa}
@@ -88,8 +91,8 @@
 \bibliography{../literature.bib}
 %\bibliographystyle{plain}
 \nocite{*}
-%\defbibheading{references}[\refname]{\subsection{#1}
-%   \markboth{#1}{#1}}
+\defbibheading{references}[\refname]{\section*{#1}
+    \markboth{#1}{#1}}
 
 
 % title page
