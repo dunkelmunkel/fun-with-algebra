@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  1 MAY 2025 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  1 MAY 2025 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**fwa01-gruppe-vorbereitung.tex
-(./fwa01-gruppe-vorbereitung.tex
+**fwa01-gruppe-vorbereitung-loesungshinweise.tex
+(./fwa01-gruppe-vorbereitung-loesungshinweise.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (../cssheet.cls
@@ -2224,8 +2224,8 @@ F.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 22.
 
-(./fwa01-gruppe-vorbereitung.aux)
-\openout1 = `fwa01-gruppe-vorbereitung.aux'.
+(./fwa01-gruppe-vorbereitung-loesungshinweise.aux)
+\openout1 = `fwa01-gruppe-vorbereitung-loesungshinweise.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -2331,12 +2331,13 @@ File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `fwa01-gruppe-vorbereitung.bcf'.
+\openout4 = `fwa01-gruppe-vorbereitung-loesungshinweise.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'fwa01-gruppe-vorbereitung.bbl' not found.
+Package biblatex Info: ... file 'fwa01-gruppe-vorbereitung-loesungshinweise.bbl
+' not found.
 
-No file fwa01-gruppe-vorbereitung.bbl.
+No file fwa01-gruppe-vorbereitung-loesungshinweise.bbl.
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
@@ -2350,9 +2351,10 @@ Package color Info: Driver file: pdftex.def on input line 149.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 22.
 
-(./fwa01-gruppe-vorbereitung.out) (./fwa01-gruppe-vorbereitung.out)
+(./fwa01-gruppe-vorbereitung-loesungshinweise.out)
+(./fwa01-gruppe-vorbereitung-loesungshinweise.out)
 \@outlinefile=\write5
-\openout5 = `fwa01-gruppe-vorbereitung.out'.
+\openout5 = `fwa01-gruppe-vorbereitung-loesungshinweise.out'.
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 23.
@@ -2360,15 +2362,13 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 23.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 27.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 32.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2377,10 +2377,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <../../logos/cc-zero.png, id=4, 66.30275pt x 23.42697pt>
 File: ../../logos/cc-zero.png Graphic file (type png)
 <use ../../logos/cc-zero.png>
-Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 54.
+Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 46.
 (pdftex.def)             Requested size: 80.53004pt x 28.45274pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 54.
+(Font)              scaled to size 5.0pt on input line 46.
 
 
 Package epstopdf Info: Source file: <../../logos/phhd.eps>
@@ -2391,19 +2391,19 @@ Package epstopdf Info: Source file: <../../logos/phhd.eps>
 (epstopdf)                    size: 27289 bytes
 (epstopdf)             Command: <repstopdf --outfile=../../logos/phhd-eps-conve
 rted-to.pdf ../../logos/phhd.eps>
-(epstopdf)             \includegraphics on input line 59.
+(epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
 <../../logos/phhd-eps-converted-to.pdf, id=22, 243.91125pt x 103.38625pt>
 File: ../../logos/phhd-eps-converted-to.pdf Graphic file (type pdf)
 <use ../../logos/phhd-eps-converted-to.pdf>
 Package pdftex.def Info: ../../logos/phhd-eps-converted-to.pdf  used on input l
-ine 59.
+ine 51.
 (pdftex.def)             Requested size: 100.68906pt x 42.67912pt.
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2025/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
  <../../logos/phhd-eps-converted-to.pdf> <../../logos/cc-zero.png>]
-(./fwa01-gruppe-vorbereitung.aux)
+(./fwa01-gruppe-vorbereitung-loesungshinweise.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2412,38 +2412,39 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `fwa01-gruppe-vorbereitung.out' has not chang
-ed.
+Package rerunfilecheck Info: File `fwa01-gruppe-vorbereitung-loesungshinweise.o
+ut' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                fwa01-gruppe-vorbereitung
+(biblatex)                fwa01-gruppe-vorbereitung-loesungshinweise
 (biblatex)                and rerun LaTeX afterwards.
 
-Package logreq Info: Writing requests to 'fwa01-gruppe-vorbereitung.run.xml'.
-\openout1 = `fwa01-gruppe-vorbereitung.run.xml'.
+Package logreq Info: Writing requests to 'fwa01-gruppe-vorbereitung-loesungshin
+weise.run.xml'.
+\openout1 = `fwa01-gruppe-vorbereitung-loesungshinweise.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28159 strings out of 473190
- 543305 string characters out of 5715800
- 1459002 words of memory out of 5000000
- 51127 multiletter control sequences out of 15000+600000
- 643457 words of font info for 56 fonts, out of 8000000 for 9000
+ 28153 strings out of 473190
+ 543605 string characters out of 5715800
+ 1456195 words of memory out of 5000000
+ 51126 multiletter control sequences out of 15000+600000
+ 628952 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,15n,101p,1248b,5179s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 81i,15n,101p,1265b,5179s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bol
 d.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway
--Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/R
-aleway-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm10.pfb>
-Output written on fwa01-gruppe-vorbereitung.pdf (1 page, 129672 bytes).
+-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/
+msbm10.pfb>
+Output written on fwa01-gruppe-vorbereitung-loesungshinweise.pdf (1 page, 11014
+3 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
