@@ -1,0 +1,59 @@
+\documentclass{cssheet}
+
+
+%--------------------------------------------------------------------------------------------------------------
+% Basic meta data
+%--------------------------------------------------------------------------------------------------------------
+
+\title{Endliche Gruppen}
+\author{Prof. Dr. Christian Spannagel}
+\date{\today}
+\hypersetup{%
+    pdfauthor={\theauthor},%
+    pdftitle={\thetitle},% 
+    pdfsubject={Aufgabenblatt Algebra},%
+    pdfkeywords={algebra}
+}
+
+%--------------------------------------------------------------------------------------------------------------
+% document
+%--------------------------------------------------------------------------------------------------------------
+
+\begin{document}
+\printtitle
+
+
+\textbf{Aufgabe 1 (Verknüpfungstafel):} 
+
+Gegeben sei die Struktur  $(\{e,r,r^2,s,sr,sr^2\};\circ)$  mit folgender Verknüpfungstafel:
+
+\[
+\begin{array}{c|cccccc}
+	\circ & e & r & r^2 & s & sr & sr^2 \\
+	\hline
+	e     & e & r & r^2 & s & sr & sr^2 \\
+	r     & r & r^2 & e & sr & sr^2 & s \\
+	r^2   & r^2 & e & r & sr^2 & s & sr \\
+	s     & s & sr^2 & sr & e & r^2 & r \\
+	sr    & sr & s & sr^2 & r & e & r^2 \\
+	sr^2  & sr^2 & sr & s & r^2 & r & e \\
+\end{array}
+\]
+
+
+\begin{enumerate}[a)]
+\item Handelt es sich um eine Gruppe?
+\item Welche geometrische Interpretation könnt ihr finden?
+\item Eine Untergruppe ist eine Struktur, bestehend aus einer Teilmenge der Trägermenge der gegebenen Gruppe mit derselben Operation. Welche Untergruppen könnt ihr finden?
+\end{enumerate}
+
+
+
+\vspace*{2cm}
+\printlicense
+
+\printsocials
+
+\end{document}
+
+\end{document}
