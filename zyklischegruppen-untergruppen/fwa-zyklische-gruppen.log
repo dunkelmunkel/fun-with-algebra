@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  30 JUN 2025 11:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  30 JUN 2025 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**fwa03-endliche-gruppen-2.tex
-(./fwa03-endliche-gruppen-2.tex
+**fwa-zyklische-gruppen.tex
+(./fwa-zyklische-gruppen.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/Users/wombat/Library/texmf/tex/latex/git-latex-docclasses/cssheet.cls
@@ -1241,8 +1241,8 @@ F.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 22.
 
-(./fwa03-endliche-gruppen-2.aux)
-\openout1 = `fwa03-endliche-gruppen-2.aux'.
+(./fwa-zyklische-gruppen.aux)
+\openout1 = `fwa-zyklische-gruppen.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -1366,18 +1366,18 @@ File: german.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `fwa03-endliche-gruppen-2.bcf'.
+\openout5 = `fwa-zyklische-gruppen.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'fwa03-endliche-gruppen-2.bbl' not found.
+Package biblatex Info: ... file 'fwa-zyklische-gruppen.bbl' not found.
 
-No file fwa03-endliche-gruppen-2.bbl.
+No file fwa-zyklische-gruppen.bbl.
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
 Package hyperref Info: Link coloring ON on input line 22.
-(./fwa03-endliche-gruppen-2.out) (./fwa03-endliche-gruppen-2.out)
+(./fwa-zyklische-gruppen.out) (./fwa-zyklische-gruppen.out)
 \@outlinefile=\write6
-\openout6 = `fwa03-endliche-gruppen-2.out'.
+\openout6 = `fwa-zyklische-gruppen.out'.
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 23.
@@ -1385,13 +1385,15 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 23.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 26.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1400,10 +1402,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <cc-zero.png, id=7, 66.30275pt x 23.42697pt>
 File: cc-zero.png Graphic file (type png)
 <use cc-zero.png>
-Package pdftex.def Info: cc-zero.png  used on input line 52.
+Package pdftex.def Info: cc-zero.png  used on input line 51.
 (pdftex.def)             Requested size: 80.53004pt x 28.45274pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 52.
+(Font)              scaled to size 5.0pt on input line 51.
 
 
 Package epstopdf Info: Source file: <phhd.eps>
@@ -1414,18 +1416,18 @@ Package epstopdf Info: Source file: <phhd.eps>
 (epstopdf)                    size: 27289 bytes
 (epstopdf)             Command: <repstopdf --outfile=phhd-eps-converted-to.pdf 
 phhd.eps>
-(epstopdf)             \includegraphics on input line 56.
+(epstopdf)             \includegraphics on input line 55.
 Package epstopdf Info: Output file is already uptodate.
 <phhd-eps-converted-to.pdf, id=25, 243.91125pt x 103.38625pt>
 File: phhd-eps-converted-to.pdf Graphic file (type pdf)
 <use phhd-eps-converted-to.pdf>
-Package pdftex.def Info: phhd-eps-converted-to.pdf  used on input line 56.
+Package pdftex.def Info: phhd-eps-converted-to.pdf  used on input line 55.
 (pdftex.def)             Requested size: 100.68906pt x 42.67912pt.
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2025/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
  </Users/wombat/Library/texmf/tex/latex/phhd-eps-converted-to.pdf> </Users/womb
-at/Library/texmf/tex/latex/cc-zero.png>] (./fwa03-endliche-gruppen-2.aux)
+at/Library/texmf/tex/latex/cc-zero.png>] (./fwa-zyklische-gruppen.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1434,37 +1436,38 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `fwa03-endliche-gruppen-2.out' has not change
-d.
+Package rerunfilecheck Info: File `fwa-zyklische-gruppen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                fwa03-endliche-gruppen-2
+(biblatex)                fwa-zyklische-gruppen
 (biblatex)                and rerun LaTeX afterwards.
 
-Package logreq Info: Writing requests to 'fwa03-endliche-gruppen-2.run.xml'.
-\openout1 = `fwa03-endliche-gruppen-2.run.xml'.
+Package logreq Info: Writing requests to 'fwa-zyklische-gruppen.run.xml'.
+\openout1 = `fwa-zyklische-gruppen.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35161 strings out of 473190
- 710845 string characters out of 5715800
- 1614079 words of memory out of 5000000
- 57914 multiletter control sequences out of 15000+600000
- 628952 words of font info for 54 fonts, out of 8000000 for 9000
+ 35170 strings out of 473190
+ 710840 string characters out of 5715800
+ 1612070 words of memory out of 5000000
+ 57913 multiletter control sequences out of 15000+600000
+ 643457 words of font info for 56 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 99i,15n,131p,713b,7349s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,131p,710b,7349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bol
 d.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway
--Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb>
-Output written on fwa03-endliche-gruppen-2.pdf (1 page, 114325 bytes).
+-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/R
+aleway-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb>
+Output written on fwa-zyklische-gruppen.pdf (1 page, 136139 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
